@@ -1,0 +1,21 @@
+index.html
+
+1. line 30 - Name your bakery (white text)
+2. line 38 - Pick your picture (purple text)
+
+---- Make your menu ----
+3. line 54 - Menu item 1 icon (purple text)
+4. line 55 - Menu item 1 name (white text)
+5. line 56 - Menu item 1 cost (white text)
+
+6. line 59 - Menu item 2 icon (purple text)
+7. line 60 - Menu item 2 name (white text)
+8. line 61 - Menu item 2 cost (white text)
+
+9. line 67 - Menu item 3 icon (purple text)
+10. line 68 - Menu item 3 name (white text)
+11. line 69 - Menu item 3 cost (white text)
+
+12. line 72 - Menu item 4 icon (purple text)
+13. line 73 - Menu item 4 name (white text)
+14. line 74 - Menu item 4 cost (white text)

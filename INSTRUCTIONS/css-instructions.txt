@@ -1,0 +1,16 @@
+css folder
+-> styles.css
+
+---- CHOOSE YOUR COLORS ----
+1. lines 3, 4, 5 - https://www.w3schools.com/colors/colors_picker.asp
+
+---- CHANGE YOUR FONTS ----
+3. lines 13 and 29 - change purple text
+  FONT OPTIONS: 
+    Creepster
+    Licorice
+    Orelega One
+    Special Elite
+    Meow Script
+    Moo Lah Lah
+    Twinkle Star

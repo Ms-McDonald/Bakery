@@ -1,0 +1,46 @@
+:root {
+  /* THESE ARE THE COLORS USED */
+  --color1: #5dbaff;
+  --color2: #db2e40;
+  --color3: #f2ecbb;
+}
+
+/* DISPLAY FONT */
+h1 {
+  /* PURPLE TEXT OPTIONS */
+  /* Creepster, Licorice, Orelega One, Special Elite */
+  /* Meow Script, Moo Lah Lah, Twinkle Star */
+  font-family: "Meow Script", cursive;
+  /* CHANGE THE NUMBER TO CHANGE THE SIZE. PX MEANS PIXELS */
+  font-size: 60px;
+  color: var(--color1);
+}
+
+/* MENU ITEM FONT */
+h2,
+h3 {
+  /* PURPLE TEXT OPTIONS */
+  /* Creepster, Licorice, Orelega One, Special Elite */
+  /* Meow Script, Moo Lah Lah, Twinkle Star */
+  font-family: "Orelega One", cursive;
+}
+
+h1.menu-title {
+  color: var(--color2);
+}
+
+.color-block {
+  min-height: 200px;
+  background-color: var(--color3);
+}
+.logo-img {
+  filter: drop-shadow(0px 10px 6px lightgray);
+  max-height: 300px;
+}
+.menu {
+  max-height: 100px;
+  padding: 10px;
+}
+.footer {
+  font-size: 10px;
+}
